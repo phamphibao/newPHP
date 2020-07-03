@@ -71,7 +71,7 @@
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Danh mục:</h6>
-            <a class="collapse-item" href="../admin_news/listTheLoai.php">Danh sách</a>
+            <a class="collapse-item" href="">Danh sách</a>
             <a class="collapse-item" href="../admin_news/ThemTheLoai.php">Thêm thể loại</a>
           </div>
         </div>
@@ -115,7 +115,7 @@
         <div id="QuangCao" class="collapse" aria-labelledby="headingNews" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Danh mục:</h6>
-            <a class="collapse-item" href="listQuangCao.php">Danh sách</a>
+            <a class="collapse-item" href="">Danh sách</a>
             <a class="collapse-item" href="ThemQuangCao.php">Thêm quảng cáo</a>
           </div>
         </div>
@@ -124,9 +124,7 @@
       <hr class="sidebar-divider">
 
       <!-- Heading -->
-      <div class="sidebar-heading">
-        Addons
-      </div>
+     
 
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
